@@ -1,3 +1,4 @@
+#program to convert no. to word
 n=int(input("Enter a no : "))
 unit=['zero','one','two','three','four','five','six','seven','eight','nine']
 ele=['eleven','twelve','thirthteen','fourteen','fifteen','sixteen','seventeen','eighteen','nineteen']
